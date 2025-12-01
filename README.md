@@ -19,9 +19,16 @@ It also includes a smart search bar with auto-suggestion, allowing users to type
 
 This project is part of the Oasis Infobyte Python Development Internship
 
+
 City: Indore, IN
+
 Temperature: 27.85 °C / 82.13 °F
+
 Humidity: 46%
+
 Weather Condition: scattered clouds
+
 Wind Speed: 3.5 m/s
+
 Pressure: 1012 hPa
+
